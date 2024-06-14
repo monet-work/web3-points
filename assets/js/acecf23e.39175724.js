@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpoints=self.webpackChunkpoints||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/web3-points/blog","blogTitle":"Blog"}')}}]);
